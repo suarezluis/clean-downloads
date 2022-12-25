@@ -9,10 +9,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezluis/clean-downloads"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Luis Suarez",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.17"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/suarezluis/clean-downloads/issues"
+  },
+  "homepage": "https://github.com/suarezluis/clean-downloads#readme"
 }
